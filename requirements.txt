@@ -1,0 +1,7 @@
+moviepy
+librosa
+google-generativeai
+pexels-api-py
+edge_tts
+requests
+nltk
